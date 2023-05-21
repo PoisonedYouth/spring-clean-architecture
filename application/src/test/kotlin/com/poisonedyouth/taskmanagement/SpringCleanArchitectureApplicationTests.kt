@@ -1,4 +1,4 @@
-package com.poisonedyouth.springcleanarchitecture
+package com.poisonedyouth.taskmanagement
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

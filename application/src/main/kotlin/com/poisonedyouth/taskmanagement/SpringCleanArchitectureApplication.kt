@@ -1,4 +1,4 @@
-package com.poisonedyouth.springcleanarchitecture
+package com.poisonedyouth.taskmanagement
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
